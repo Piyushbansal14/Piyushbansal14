@@ -55,8 +55,6 @@ Currently building tools that mimic attacker environments to study real-world be
 ## 📌 Featured Projects
 
 - 🔐 [SSH Honeypot](https://github.com/Piyushbansal14/ssh-honeypot): Simulates an SSH server to capture attacker input with realistic responses
-- 📊 [AQI Project](https://github.com/Piyushbansal14/AQI-Project): Clean data science project to track & predict Air Quality Index
-- 🧾 [Open Resume Builder](https://github.com/Piyushbansal14/open-resume): Sleek, open-source resume builder for devs
 
 ---
 
